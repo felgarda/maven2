@@ -18,7 +18,7 @@
   <profile>
   	<id>Mi id</id>
   	<activation>
-  		<os>windows</os>
+  		<os><family>windows</family></os>
   	</activation>
     <build>
         <plugins>
